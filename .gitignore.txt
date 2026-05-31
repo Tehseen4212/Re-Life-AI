@@ -1,0 +1,8 @@
+*.h5
+*.pt
+*.pth
+datasets/
+dataset/
+__pycache__/
+.ipynb_checkpoints/
+.env
